@@ -14,7 +14,7 @@ app.use("/hello", (req, res) => {
 });
 
 app.listen(3000, (req, res) => {
-  console.log("Server is running at 3000");
+  console.log("Server is running at 3000...");
 });
 
 export { app };
