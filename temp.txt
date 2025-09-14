@@ -1,4 +1,0 @@
-Some file content in Dev Branch
-
-Some new changes
-now I want this state files only these to be in the main
