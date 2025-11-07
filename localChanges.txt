@@ -4,3 +4,4 @@ This is some local changes from my side.
 There is some new more changes to simulate the rebase command. First I'll commit this locally and hit git pull from remote to get new changes. So, now this prompt to merge commit, but using --rebase will keep clean and linear
 
 I did some changes from remote to test confict during git pull --rebase origin main 
+Here is some new changes  I am making at line number 6, to get the conflict when I hit the git pull --rebase origin main
