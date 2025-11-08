@@ -1,4 +1,0 @@
-This is some changes from someone else. (consider this as some new code someone has pushed)
-
-Some new changes to simulate rebase. now this is new commit from someone else
-Here is some other change
