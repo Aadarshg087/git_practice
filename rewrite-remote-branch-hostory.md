@@ -17,11 +17,12 @@ See the replacement.txt file for reference
 
 (might need to use --force in the end accordingly)
 
-Now, the text is been replced in the whole branch where have it is present
-and the remote origin will get detached, 
+Now, the text is been replaced in the whole branch where have it is present
+and the remote origin will get detached,
 so hitting `git remote -v` will get nothing
 
 so add the remote repo where you want to push new re-written history
+`git remote add origin <repo-link>`
 
 `git push origin main --force`
 
@@ -34,9 +35,9 @@ Now, lets talk about how to remove a file from the git commit history
 
 now the given file is being deleted from the commit history and there are some new hashes of commits,
 
-again run the 
+again run the
 `git remote add origin <repo-link>`
 
-now push the new updated history to remote 
+now push the new updated history to remote
 
 `git push origin main --force`
