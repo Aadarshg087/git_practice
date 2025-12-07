@@ -22,6 +22,7 @@ and the remote origin will get detached,
 so hitting `git remote -v` will get nothing
 
 so add the remote repo where you want to push new re-written history
+
 `git remote add origin <repo-link>`
 
 `git push origin main --force`
