@@ -12,8 +12,6 @@ Change 6
 
 Change 7
 
-Some secret = "SECRET_KEY"
-
 Change 8
 
 Change 9
